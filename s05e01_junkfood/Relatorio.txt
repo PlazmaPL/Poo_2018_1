@@ -1,0 +1,14 @@
+#o que você fez?
+Sistema de junkfood como em uma maquina com espirais.
+
+#Com quem e como você fez?
+Com Ronier Lima.
+
+#O que aprendeu e sabe fazer?
+Principalmente o sistema de excessões que tem no java, e a basicamente a usar o controller de forma eficiente.
+
+#O que tem dificuldade ainda?
+Tive problemas com o RuntimeException, e um pouco com controller mas nada que me fizesse empacar por muito tempo.
+
+#Quanto tempo levou pra fazer a atividade?
+Cerca de 3 horas, porem foi feito em um periodo de 3 dias.
