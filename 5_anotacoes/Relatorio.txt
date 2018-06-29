@@ -1,0 +1,14 @@
+O que você sabe fazer do que está sendo apresentado?
+Eu aprendi a fazer um sitema de login, com a ajuda de tutoriais e algumas aplicações no controller foram reforçadas
+
+Como vocês dividiram/fizeram a atividade?
+Eu fiz com a ajuda do Ronier Lima de ED como ele ja passou em poo ele sempre me ajuda nos trabalhos que tenho duvida
+
+O que você aprendeu e o que ainda tem dificuldade?
+O sistema de login ficou um tanto quanto imperfeito, creio que ainda falta reforçar para que ele fique 100% pretendo melhorar meu aspecto nessse ponto, pois de fato ficou a desejar
+
+Quanto tempo você gastou no total na atividade?
+3h de trabalho
+
+Informações
+programacao em java(eclipse)
