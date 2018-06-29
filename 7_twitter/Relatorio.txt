@@ -1,0 +1,15 @@
+O que você sabe fazer do que está sendo apresentado?
+Aprendi a fazer um sistema de login mais sofisticado
+
+Como vocês dividiram/fizeram a atividade?
+Meu amigo Ronier Lima de Ed me ajudou
+
+O que você aprendeu e o que ainda tem dificuldade?
+Alem do sistema de login, tive melhorias no meu controller. O principal problema foi a quantidade de repositorios usados oque me ocasionou
+varios erros e consequentemente aumentou o tempo do trabalho
+
+Quanto tempo você gastou no total na atividade?
+8h
+
+Informações
+programacao em java(eclipse)
