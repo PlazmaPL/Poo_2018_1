@@ -1,0 +1,14 @@
+O que você sabe fazer do que está sendo apresentado?
+Foi um trabalho que me deu muito trabalho em relação a ligaçoes com repositorios, alguns metodos me deram dor de cabeça incrivel porem com ajuda de tutoriais eu aprendi a ligar os repositorios, acho que foi oque eu mais aprendi nesse trabalho.
+
+Como vocês dividiram/fizeram a atividade?
+Meu amigo Ronier Lima de Ed me ajudou a fazer esse trabalho remotamente
+
+O que você aprendeu e o que ainda tem dificuldade?
+A usar mais os repositorios, porem ainda sim possuo forte dificuldade com eles
+
+Quanto tempo você gastou no total na atividade?
+4h
+
+Informações
+programacao em java(eclipse)
