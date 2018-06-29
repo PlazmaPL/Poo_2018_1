@@ -1,0 +1,14 @@
+O que você sabe fazer do que está sendo apresentado?
+Eu aprendi a fazer algumas ligações entre metodos, porem tive problemas no controller oque gerou alguns erros ao longo do meu trabalho
+
+Como vocês dividiram/fizeram a atividade?
+Meu amigo Ronier Lima de Ed me ajudou a fazer esse trabalho 
+
+O que você aprendeu e o que ainda tem dificuldade?
+Eu aprendi a configurar um controller, porem ainda é exatamente nele que possuo um certo grau de dificuldade
+
+Quanto tempo você gastou no total na atividade?
+2h30
+
+Informações
+programacao em java(eclipse)
