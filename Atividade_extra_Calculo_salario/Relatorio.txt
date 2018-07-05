@@ -1,0 +1,15 @@
+O que você sabe fazer do que está sendo apresentado?
+Os metodos e usar herança
+
+Como vocês dividiram/fizeram a atividade?
+Eu fiz só
+
+O que você aprendeu e o que ainda tem dificuldade?
+Eu aprendi a usar herança entre classes de maneira mais complexa, porem tive imensa dificuldade com o controller e algumas converções nele
+como string para char e string para boolean, oque me travaram durante horas.
+
+Quanto tempo você gastou no total na atividade?
+6-7h
+
+Informações
+programacao em java(eclipse)
